@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": 1,
+    "nombre": "Notebook Lenovo",
+    "precio": 100
+  },
+  {
+    "id": 2,
+    "nombre": "Notebook HP",
+    "precio": 350000
+  },
+  {
+    "id": 3,
+    "nombre": "Notebook Dell",
+    "precio": 400000
+  },
+  {
+    "id": 4,
+    "nombre": "Notebook Asus",
+    "precio": 450000
+  },
+  {
+    "id": 5,
+    "nombre": "Notebook Acer",
+    "precio": 500000
+  }
+]
