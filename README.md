@@ -89,7 +89,3 @@ Back-NodeJS/
 ## ✨ Autor
 
 - Matías Fernández - [GitHub](https://github.com/MatiJFernandez)
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
